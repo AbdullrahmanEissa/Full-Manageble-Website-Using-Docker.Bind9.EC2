@@ -1,5 +1,9 @@
 # Full-Manageble-Website-Using-Docker.Bind9.EC2
 
+Full Walkthrough Video : 
+
+https://drive.google.com/file/d/1vz09l0Uigcymf2pbmH2_-rJhuemOGaX8/view?usp=sharing
+
 🌐 DevSphere Academy — DNS & Docker Deployment Guide
 This guide documents how we deployed the DevSphere Academy web app using Docker on an EC2 instance, and configured a fully self-managed authoritative DNS server using BIND9. The domain holalho.online is registered with Namecheap, and DNS is now managed independently via our own nameservers.
 
