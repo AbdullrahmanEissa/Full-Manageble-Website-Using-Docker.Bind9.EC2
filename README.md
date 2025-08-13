@@ -46,6 +46,8 @@ http://54.197.1.29
 
 http://ec2-54-197-1-29.compute-1.amazonaws.com
 
+holalho.online
+
 🔁 4. DNS Setup with Namecheap
 ✅ Steps:
 Registered glue records:
